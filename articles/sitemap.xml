@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://online-sile-projects.github.io/SecondMortgageNews/index.html</loc>
+        <loc>https://secondmortgagenews.com/index.html</loc>
         <lastmod>2025-03-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>https://online-sile-projects.github.io/SecondMortgageNews/articles/2025-03-20-06-49-34-房屋二胎.html</loc>
-        <lastmod>2025-03-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+
 </urlset>
