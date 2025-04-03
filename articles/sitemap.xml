@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://secondmortgagenews.com/articles/index.html</loc>
-        <lastmod>2025-04-02</lastmod>
+        <lastmod>2025-04-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://secondmortgagenews.com/articles/2025-04-03-01-25-39-金鐘獎與熱門資訊一覽：PChome新聞、信貸、房貸與時事焦點.html</loc>
+        <lastmod>2025-04-03-01-25-39</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://secondmortgagenews.com/articles/2025-04-02-01-27-02-新聞摘要與趨勢分析：2025-年-4-月-2-日.html</loc>
-        <lastmod>2025-04-02-01-27-02</lastmod>
+        <lastmod>2025-04-02-01-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
