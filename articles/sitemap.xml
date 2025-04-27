@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://secondmortgagenews.com/articles/index.html</loc>
-        <lastmod>2025-04-26</lastmod>
+        <lastmod>2025-04-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://secondmortgagenews.com/articles/2025-04-27-01-41-24-蘇慧倫親姐遭詐騙事件：警惕高利誘惑，防範投資陷阱.html</loc>
+        <lastmod>2025-04-27-01-41-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://secondmortgagenews.com/articles/2025-04-26-01-25-56-新聞摘要分析：房地產、金融與社會議題.html</loc>
-        <lastmod>2025-04-26-01-25-56</lastmod>
+        <lastmod>2025-04-26-01-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
