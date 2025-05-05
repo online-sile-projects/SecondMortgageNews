@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://secondmortgagenews.com/articles/index.html</loc>
-        <lastmod>2025-05-04</lastmod>
+        <lastmod>2025-05-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://secondmortgagenews.com/articles/2025-05-05-01-41-45-近期新聞摘要：焦點圍繞謝霆鋒妹妹二胎、房貸、及其他財經資訊.html</loc>
+        <lastmod>2025-05-05-01-41-45</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://secondmortgagenews.com/articles/2025-05-04-01-45-49-近期台灣新聞摘要.html</loc>
-        <lastmod>2025-05-04-01-45-49</lastmod>
+        <lastmod>2025-05-04-01-45</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
