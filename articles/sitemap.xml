@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://secondmortgagenews.com/articles/index.html</loc>
-        <lastmod>2025-05-19</lastmod>
+        <lastmod>2025-05-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://secondmortgagenews.com/articles/2025-05-20-01-41-02-近期房市資訊與貸款相關新聞分析.html</loc>
+        <lastmod>2025-05-20-01-41-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://secondmortgagenews.com/articles/2025-05-19-01-44-33-近期台灣新聞網站資訊速覽.html</loc>
-        <lastmod>2025-05-19-01-44-33</lastmod>
+        <lastmod>2025-05-19-01-44</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
